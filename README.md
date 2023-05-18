@@ -1,4 +1,4 @@
-# [news-summarizer.vercel.app](https://news-summarizer.vercel.app/)
+# [news-summarizer.vercel.app](https://news-summarizer.vercel.app/](https://news-summary-maker.vercel.app)
 
 This project summarizes news articles for you using AI.
 
